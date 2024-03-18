@@ -12,9 +12,9 @@ ScanNutri est une application mobile Android qui permet aux utilisateurs de scan
 - **Historique des Scans** : Gardez une trace de vos scans précédents pour un suivi facile.
 
 ## Technologies Utilisées
-- Android Studio
-- Java
-- API de reconnaissance de codes-barres
+- Android Studio,
+- Java,
+- API de reconnaissance de codes-barres.
 
 ## Contributeurs
 Ouardia LABBACI
